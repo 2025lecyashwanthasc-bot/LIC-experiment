@@ -8,7 +8,7 @@
 
 The aim of this experiment is to analyze the operation of a Common Source (CS) MOSFET amplifier using LTspice. The circuit is studied using DC, transient, and AC analyses to understand its biasing condition, time-domain behavior, and frequency response. The simulation results are used to verify the theoretical characteristics of a common source amplifier.
 
----
+---b
 
 ## 2. Circuit Description  
 
