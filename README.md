@@ -75,12 +75,13 @@ With Capacitor:
 ## 6. DC Analysis  
 
 DC analysis is used to confirm that the MOSFET operates in the saturation region. Saturation occurs when the drain-source voltage is greater than the overdrive voltage (VGS − VTH). The obtained operating point confirms proper biasing, which is required for amplification.
+https://github.com/2025lecyashwanthasc-bot/LIC-experiment/blob/4154cb2fddc9e8d9f22bb5fbbf02ea981fde90f4/README.md
 
 DC operating Point:
 
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/06f95933-16f2-41e1-82b7-6a8b75547649" />
 DC Sweep:
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/5d587ed1-9ed1-4575-a930-750313a5b566" />
+<img width="1366" heigh
 
 
 ---
